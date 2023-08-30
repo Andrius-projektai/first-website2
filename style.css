@@ -1,3 +1,10 @@
 .container {
+    background-color: #1F2937;
     color: white;
+    display: flex;
+}
+img.Image { max-width: 100%;}
+div#image1 { width: 600px; }
+.info {
+    size: 50px;
 }
